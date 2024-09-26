@@ -85,3 +85,6 @@ image::merge.png[width=100%,pdfwidth=60%]
 image::tracebranches.png[width=60%,pdfwidth=60%]
 +
 . Répétez l'opération pour une fonctionnalité de votre choix, un peu plus compliquée. Juste pour tester que cette  démarche est acquise.
+
+
+=== 3 -- Test 
